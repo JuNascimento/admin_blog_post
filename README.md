@@ -26,7 +26,11 @@ Vamos precisar das seguintes ferramentas:
 1. Digite o conteudo abaixo no terminal:
 
 ```
-make run HOST=127.0.0.1 PORT=8000
+make setup
+```
+
+```
+make run HOST=0.0.0.0 PORT=8000
 ```
 
 Copie e cole http://127.0.0.1:8000/admin/ na URL.
