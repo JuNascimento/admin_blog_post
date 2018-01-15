@@ -18,7 +18,7 @@ Vamos precisar das seguintes ferramentas:
 
 ### Instalação
 
-1. Copie os arquivos em seu computador e abra o diretório;
+1. Clone o repositório e abra o diretório;
 2. Crie uma virtualenv e inicie-a;
 
 ### Executando o arquivo pela linha de comando
