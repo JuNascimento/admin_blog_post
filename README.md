@@ -20,11 +20,6 @@ Vamos precisar das seguintes ferramentas:
 
 1. Copie os arquivos em seu computador e abra o diretório;
 2. Crie uma virtualenv e inicie-a;
-3. Instale o os pacotes python necessários utilizando requirements.pip utilizando a linha de comando abaixo.
-
-```
-pip install -r requirements.pip
-```
 
 ### Executando o arquivo pela linha de comando
 
