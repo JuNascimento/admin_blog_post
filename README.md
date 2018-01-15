@@ -31,7 +31,7 @@ pip install -r requirements.pip
 1. Digite o conteudo abaixo no terminal:
 
 ```
-python manage.py runserver
+make run HOST=127.0.0.1 PORT=8000
 ```
 
 Copie e cole http://127.0.0.1:8000/admin/ na URL.
